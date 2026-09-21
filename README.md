@@ -49,3 +49,5 @@ The project analyzes sales data and presents important business insights through
 
 ```bash
 pip install pandas openpyxl
+python create_dataset.py
+python analyze_sales.py
